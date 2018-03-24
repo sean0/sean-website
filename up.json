@@ -1,0 +1,12 @@
+{
+  "name": "sean-website",
+  "profile": "seanpersonal",
+  "regions": ["us-east-1"],
+  "stages": {
+    "staging": {
+    },
+    "production": {
+    }
+  },
+  "type": "static"
+}
